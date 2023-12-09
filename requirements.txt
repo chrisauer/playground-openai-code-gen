@@ -1,0 +1,5 @@
+openai
+langchain
+markdown2
+beautifulsoup4
+
