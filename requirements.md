@@ -1,4 +1,4 @@
-# FreeBusy.AI
+# Free Busy Calendar AI
 ## Code Requirements
  * You should use flask 3. You should use Flask-Dance for handling authentication with oauth2 providers. You should configure google as a provider with Flask-Dance. You should utilize environment variables for oauth related configuration values
 
